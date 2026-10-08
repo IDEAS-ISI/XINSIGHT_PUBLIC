@@ -312,15 +312,3 @@ The model resets automatically after a memory error — you can continue asking 
 
 ---
 
-## Screenshot Checklist
-
-| # | Location | What to Capture |
-|---|---|---|
-| 1 | Settings → 💻 System tab | RAM, CPU, disk metric tiles; GPU detection section |
-| 2 | Settings → 🤖 LLM tab | Model path field with `Qwen3-4B-Q4_K_M.gguf`; GGUF Inspection expander open showing metadata |
-| 3 | Settings → 🤖 LLM tab | Full LLM tab: path, Browse, display name, n_ctx/n_gpu_layers/n_threads, Temperature/Top-P/Top-K/Repeat Penalty, Show SQL checkbox, Save button |
-| 4 | Any XInsight page | The "💬 Ask Data Assistant" teal pill button fixed in the bottom-right corner |
-| 5 | Open popover, before first question | Model indicator, Schema Context expander (collapsed), suggestion chips, chat input box, welcome message |
-| 6 | Open popover, no dataset loaded | A general question asked ("What is factor analysis?") and the assistant's formatted answer |
-| 7 | Open popover, SQL response | A data question answered, with "View Generated SQL & Output" expander open (SQL code + result table visible); Show SQL toggle must be on |
-| 8 | Open popover, after conversation | Export Chat and Clear Chat buttons at the bottom, both active |
