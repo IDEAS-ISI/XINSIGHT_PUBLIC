@@ -12,7 +12,7 @@ Use this guide to build contingency tables and test for association in
 3. Select your dataset.
 4. Open the **Two-Way / Multiway Table** tab.
 
-![alt text](image-19.png)
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/25649555-aa6c-43a1-ae6d-8a3217614430" />
 ---
 
 ## 2. Review the Dataset Preview and Categorical Columns
@@ -24,7 +24,7 @@ Use this guide to build contingency tables and test for association in
 3. If a column you need isn't picked up automatically, use **Select columns
    to force convert to categorical (if required)** to add it manually.
 
-![alt text](image-20.png)
+<img width="1602" height="410" alt="Image" src="https://github.com/user-attachments/assets/1b3a207f-e223-4b5e-9c1b-26e7b1b33871" />
 **Note:** at least 2 categorical variables are required to build a
 contingency table. If your dataset doesn't have that many, you'll see an
 error message here instead of the variable selectors below.
@@ -40,8 +40,8 @@ error message here instead of the variable selectors below.
      representing a combination of explanatory-variable categories.
 3. Click **Generate Table**.
 
-![alt text](image-21.png)
-![alt text](image-22.png)
+<img width="438" height="184" alt="Image" src="https://github.com/user-attachments/assets/9eb2eed0-2b25-44f8-a3ff-d1257d1f3a4c" />
+<img width="472" height="185" alt="Image" src="https://github.com/user-attachments/assets/b7f8a44a-515a-41f4-93e7-395c86d6935d" />
 
 ---
 
@@ -51,8 +51,8 @@ The **Multiway Cross Tabulation** shows a count for every combination of
 Explanatory Variable categories (rows) against Response Variable categories
 (columns) — a standard contingency table.
 
-![alt text](image-23.png)
-![alt text](image-24.png)
+<img width="1579" height="476" alt="Image" src="https://github.com/user-attachments/assets/de1f9e87-25cd-4b43-bd6a-f2345a32f201" />
+<img width="1583" height="724" alt="Image" src="https://github.com/user-attachments/assets/d0211e44-71e0-4afc-a456-7c170ccee12b" />
 ---
 
 ## 5. Chi-Square Test of Association
@@ -84,8 +84,8 @@ This runs automatically once the table is generated — no extra click needed.
 > The exact thresholds shift slightly with table size — a 2×2 table and a
 > 4×5 table don't use the same cutoffs for "strong."
 
-![alt text](image-25.png)
-![alt text](image-26.png)
+<img width="1587" height="699" alt="Image" src="https://github.com/user-attachments/assets/a4df8b3f-1f34-4314-944c-66a1b072608f" />
+<img width="1584" height="854" alt="Image" src="https://github.com/user-attachments/assets/287d2b36-e6b9-4631-88f7-7e82c7325c76" />
 ---
 
 ## 6. Fisher's Exact Test (2×2 tables only)
@@ -103,8 +103,8 @@ Use Fisher's exact test instead of (or alongside) the chi-square result when
 your sample is small or expected cell counts are low — it computes an exact
 probability rather than relying on chi-square's large-sample approximation.
 
-![alt text](image-27.png)
-![alt text](image-28.png)
+<img width="1581" height="721" alt="Image" src="https://github.com/user-attachments/assets/eba4e273-67fb-4236-9f02-73244a2921dc" />
+<img width="1582" height="656" alt="Image" src="https://github.com/user-attachments/assets/37435469-3210-484d-9361-6dd757bb5b99" />
 ---
 
 ## 7. How to Read the Result

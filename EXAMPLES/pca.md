@@ -10,7 +10,7 @@ in the **Statistical Analysis** module.
 1. From the left navigation panel, click **Statistical Analysis**.
 2. The **Statistical Analysis** workspace will open.
 
-![alt text](image.png)
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/1d5c4402-d22d-4d7c-a59f-dd928c32cae3" />
 ---
 
 ## Step 2: Select a Dataset
@@ -20,7 +20,7 @@ in the **Statistical Analysis** module.
 3. Once selected, the system displays a preview of the first 10 rows of the
    dataset.
 
-![alt text](image-1.png)
+<img width="1920" height="508" alt="Image" src="https://github.com/user-attachments/assets/9b125426-3e5f-4359-bbc5-8615c0573317" />
 ---
 
 ## Step 3: Open the Principal Component Analysis Tab
@@ -37,7 +37,7 @@ in the **Statistical Analysis** module.
 
 The PCA page will load.
 
-![alt text](image-2.png)
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/0477866d-7817-4fdc-a301-508b4c5b22d9" />
 ---
 
 ## Step 4: Check Dataset Suitability
@@ -75,8 +75,8 @@ The system calculates the **KMO Score**.
 
 > A KMO value above **0.5** indicates that PCA can be performed.
 
-![alt text](image-3.png)
-![alt text](image-4.png)
+<img width="783" height="274" alt="Image" src="https://github.com/user-attachments/assets/491100c8-c17f-4def-97c5-a684c012b0a9" />
+<img width="1616" height="246" alt="Image" src="https://github.com/user-attachments/assets/19e0a31d-0193-4843-b41e-4d27c51001d0" />
 ---
 
 ## Step 5: Choose the Number of Components
@@ -98,10 +98,10 @@ components.
 Use this option when you already know how many components you want to keep —
 for example, because you specifically need a 2D result for visualization.
 
-![alt text](image-5.png)
-![alt text](image-6.png)
-![alt text](image-7.png)
-![alt text](image-8.png)
+<img width="788" height="470" alt="Image" src="https://github.com/user-attachments/assets/d02b5640-961a-48bc-806b-a529f1d6cf70" />
+<img width="782" height="911" alt="Image" src="https://github.com/user-attachments/assets/0130dd27-c3ee-477f-943a-11725334a2b8" />
+<img width="836" height="911" alt="Image" src="https://github.com/user-attachments/assets/6c8f312f-9e03-4a07-8cd5-ae34d37a0e2e" />
+<img width="863" height="405" alt="Image" src="https://github.com/user-attachments/assets/896c4e29-b21e-4b3b-b198-a7b16f80acae" />
 ### Option 2: Default
 
 1. Click **Default**.
@@ -111,9 +111,9 @@ for example, because you specifically need a 2D result for visualization.
 
 Use this option if you're unsure how many components should be used.
 
-![alt text](image-9.png)
-![alt text](image-10.png)
-![alt text](image-11.png)
+<img width="815" height="919" alt="Image" src="https://github.com/user-attachments/assets/ce14eb25-ae10-4d0a-b38e-bf67e7c9aaad" />
+<img width="815" height="936" alt="Image" src="https://github.com/user-attachments/assets/1848ec4e-9620-44cd-9176-6e41e68aace6" />
+<img width="827" height="953" alt="Image" src="https://github.com/user-attachments/assets/e780d923-9e57-4d3c-8dce-e723164c7c01" />
 ---
 
 ## Step 6: Review the Results
@@ -151,10 +151,10 @@ of every row's position on the first two components (PC1 vs PC2) — this is
 where clusters, outliers, or separation between groups tend to become
 visually obvious.
 
-![alt text](image-12.png)
-![alt text](image-13.png)
-![alt text](image-14.png)
-![alt text](image-15.png)
+<img width="806" height="468" alt="Image" src="https://github.com/user-attachments/assets/04bf355b-b647-4540-b311-b436218d6ce9" />
+<img width="770" height="420" alt="Image" src="https://github.com/user-attachments/assets/ccb6b654-786c-40c8-9659-2eb5f96f2ac4" />
+<img width="809" height="457" alt="Image" src="https://github.com/user-attachments/assets/3fe13540-dbca-4eba-9e3d-3cbd0635063c" />
+<img width="785" height="415" alt="Image" src="https://github.com/user-attachments/assets/f1249ea3-2f40-4894-8809-c009736550c2" />
 ---
 
 ## Step 7: Interpret the Components

@@ -12,7 +12,7 @@ Table**.
 3. Select your dataset.
 4. Open the **Pivot Table** tab.
 
-![alt text](image-16.png)
+<img width="1920" height="1040" alt="Image" src="https://github.com/user-attachments/assets/c3d48b79-9efe-4b2c-8572-7742299a3732" />
 ---
 
 ## 2. Review the Dataset Preview
@@ -20,7 +20,7 @@ Table**.
 The top of the page shows a preview of your dataset so you can see column
 names and sample values before configuring the pivot.
 
-![alt text](image-17.png)
+<img width="1573" height="362" alt="Image" src="https://github.com/user-attachments/assets/3c5e5815-513b-48c9-9767-08dcab213f55" />
 ---
 
 ## 3. Configure the Pivot
@@ -50,7 +50,7 @@ names and sample values before configuring the pivot.
 | `size` | Rows in the group, including missing values |
 | `std` | Spread / variability within the group |
 
-![alt text](image-18.png)
+<img width="1585" height="684" alt="Image" src="https://github.com/user-attachments/assets/d05a365b-61b2-4f6d-9e1d-48bbb0a103d6" />
 ---
 
 ## 4. Choose a Value Display Mode
@@ -111,7 +111,7 @@ Two download options are always available, regardless of pivot complexity:
 Both export exactly what's currently displayed — including any sort order or
 percentage view you've applied.
 
-![alt text](image-29.png)
+<img width="1585" height="736" alt="Image" src="https://github.com/user-attachments/assets/a994ed19-bbba-4002-b855-813e6fb8b508" />
 ---
 
 ## Summary
